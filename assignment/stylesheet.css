@@ -1,4 +1,13 @@
 header {background-color: black}
 
 div.info {background-color: orange;
-color: rebeccapurple;}
+    color: rebeccapurple; text-align: center;}
+
+h2 {background-color: orange;}
+
+img {height: 100%;
+width: 100%;}
+
+h3 {background-color: yellow;
+color: black;
+text-align: center;}
