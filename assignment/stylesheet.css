@@ -1,13 +1,14 @@
-header {background-color: black}
+Body {font-family: copperplate;}
 
-div.info {background-color: orange;
-    color: rebeccapurple; text-align: center;}
+header {background-color: rgb(199, 14, 128)}
 
-h2 {background-color: orange;}
+div.info {color: rgb(139, 217, 239); text-align: center;}
+
+h2 {background-color: rgb(24, 115, 131);}
 
 img {height: 100%;
 width: 100%;}
 
-h3 {background-color: yellow;
-color: black;
+h3 {background-color: rgb(255, 255, 255);
+color: rgb(221, 11, 11);
 text-align: center;}
